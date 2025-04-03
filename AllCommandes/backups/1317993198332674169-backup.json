@@ -1,0 +1,278 @@
+{
+  "name": "𝐋𝐨𝐧𝐢𝐝 Corp",
+  "roles": [
+    {
+      "name": "@everyone",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 0
+    },
+    {
+      "name": "👺 Modération",
+      "color": 15469066,
+      "permissions": "1721807559716807",
+      "position": 14
+    },
+    {
+      "name": "🎃  Administrateur",
+      "color": 15105570,
+      "permissions": "1721835209097183",
+      "position": 16
+    },
+    {
+      "name": "⚓ • Owner",
+      "color": 786432,
+      "permissions": "71612371435201",
+      "position": 18
+    },
+    {
+      "name": "🍀 Modo test",
+      "color": 5681902,
+      "permissions": "1713011332476737",
+      "position": 13
+    },
+    {
+      "name": "🪖 commandant",
+      "color": 16114033,
+      "permissions": "1720707884371521",
+      "position": 15
+    },
+    {
+      "name": "⛩️ // Équipe Ping",
+      "color": 15041534,
+      "permissions": "1720707884371521",
+      "position": 11
+    },
+    {
+      "name": "🏯  Help crew »”",
+      "color": 16711820,
+      "permissions": "1720707884371521",
+      "position": 12
+    },
+    {
+      "name": "⚒️ Développeurs",
+      "color": 15398519,
+      "permissions": "1721807559716807",
+      "position": 17
+    },
+    {
+      "name": "🚀 Membre",
+      "color": 3447003,
+      "permissions": "1232524688084544",
+      "position": 10
+    },
+    {
+      "name": "DraftBot",
+      "color": 0,
+      "permissions": "1153784935345407",
+      "position": 9
+    },
+    {
+      "name": "Akinator",
+      "color": 0,
+      "permissions": "563036658166872",
+      "position": 8
+    },
+    {
+      "name": "TSUKUYOMI",
+      "color": 0,
+      "permissions": "8",
+      "position": 7
+    },
+    {
+      "name": "❄️ W1NT3R",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 6
+    },
+    {
+      "name": "Chef de Faction",
+      "color": 1929898,
+      "permissions": "1720707884371521",
+      "position": 5
+    },
+    {
+      "name": "ChannelManager",
+      "color": 0,
+      "permissions": "8",
+      "position": 4
+    },
+    {
+      "name": "D-INVITES",
+      "color": 0,
+      "permissions": "4027051217",
+      "position": 3
+    },
+    {
+      "name": "Snoway",
+      "color": 0,
+      "permissions": "8",
+      "position": 2
+    },
+    {
+      "name": "ServerStats",
+      "color": 0,
+      "permissions": "1166352",
+      "position": 1
+    },
+    {
+      "name": "💊",
+      "color": 658187,
+      "permissions": "0",
+      "position": 20
+    },
+    {
+      "name": "👑",
+      "color": 526602,
+      "permissions": "0",
+      "position": 19
+    }
+  ],
+  "channels": [
+    {
+      "name": "↪𝐠𝐞𝐧𝐞𝐫𝐚𝐥📲",
+      "type": 0,
+      "position": 3,
+      "parent": "࿇~Discution~࿇"
+    },
+    {
+      "name": "↪clips-vidéos-et-temps-forts",
+      "type": 0,
+      "position": 5,
+      "parent": "࿇~Discution~࿇"
+    },
+    {
+      "name": "🐉↪Vocal 1",
+      "type": 2,
+      "position": 0,
+      "parent": "Salons vocaux"
+    },
+    {
+      "name": "🍀↪Vocal 2",
+      "type": 2,
+      "position": 1,
+      "parent": "Salons vocaux"
+    },
+    {
+      "name": "◤𝖗𝖚𝖑𝖊𝖘◥",
+      "type": 0,
+      "position": 0,
+      "parent": "♪_Information_♪"
+    },
+    {
+      "name": "꧁•⊹٭𝑨𝒏𝒏𝒐𝒏𝒄𝒆𝒔٭⊹•꧂",
+      "type": 0,
+      "position": 1,
+      "parent": "♪_Information_♪"
+    },
+    {
+      "name": "📸↪média",
+      "type": 0,
+      "position": 4,
+      "parent": "࿇~Discution~࿇"
+    },
+    {
+      "name": "maj-communauté",
+      "type": 0,
+      "position": 13,
+      "parent": "Staff ♣"
+    },
+    {
+      "name": "𝚖𝚎𝚜𝚜𝚊𝚐𝚎-𝚜𝚝𝚊𝚏𝚏",
+      "type": 0,
+      "position": 14,
+      "parent": "Staff ♣"
+    },
+    {
+      "name": "🍏↪Vocal 3",
+      "type": 2,
+      "position": 2,
+      "parent": "Salons vocaux"
+    },
+    {
+      "name": "partenariat",
+      "type": 0,
+      "position": 2,
+      "parent": "♪_Information_♪"
+    },
+    {
+      "name": "↪plainte",
+      "type": 0,
+      "position": 8,
+      "parent": "→ AIDE ←"
+    },
+    {
+      "name": "↪entraide",
+      "type": 15,
+      "position": 6,
+      "parent": "→ AIDE ←"
+    },
+    {
+      "name": "↪demande-de-role",
+      "type": 15,
+      "position": 7,
+      "parent": "→ AIDE ←"
+    },
+    {
+      "name": "↪menu",
+      "type": 0,
+      "position": 9,
+      "parent": "Salons vocaux"
+    },
+    {
+      "name": "↪ Créer ta Voc",
+      "type": 2,
+      "position": 3,
+      "parent": "Salons vocaux"
+    },
+    {
+      "name": "𝐯𝐨𝐜 𝐬𝐭𝐚𝐟𝐟🌈™",
+      "type": 2,
+      "position": 5,
+      "parent": "Staff ♣"
+    },
+    {
+      "name": "cmd-staff",
+      "type": 0,
+      "position": 15,
+      "parent": "Staff ♣"
+    },
+    {
+      "name": "Exemple d'une entraide",
+      "type": 11,
+      "parent": "↪entraide"
+    },
+    {
+      "name": "Exemple de dmd de role",
+      "type": 11,
+      "parent": "↪demande-de-role"
+    },
+    {
+      "name": "Explication",
+      "type": 11,
+      "parent": null
+    }
+  ],
+  "categoryChannels": [
+    {
+      "name": "࿇~Discution~࿇",
+      "position": 1
+    },
+    {
+      "name": "Salons vocaux",
+      "position": 3
+    },
+    {
+      "name": "♪_Information_♪",
+      "position": 0
+    },
+    {
+      "name": "→ AIDE ←",
+      "position": 2
+    },
+    {
+      "name": "Staff ♣",
+      "position": 5
+    }
+  ]
+}

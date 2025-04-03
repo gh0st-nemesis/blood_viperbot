@@ -1,0 +1,297 @@
+{
+  "1309857246536138832": [
+    {
+      "titre": "AES base 64",
+      "description": "Retrouver le message original",
+      "niveau": "easy",
+      "flag": "FLAG{D3crypt3d_M3ss}",
+      "points": 5,
+      "firstBlood": "mlcnl",
+      "lastBlood": "mlcnl",
+      "solvedBy": [
+        "mlcnl"
+      ],
+      "messageId": "1318894917640257658",
+      "channelId": "1317820002295873567"
+    },
+    {
+      "titre": "BinPwn basics",
+      "description": "Retrouver le flag avec challenge.bin",
+      "niveau": "easy",
+      "flag": "FLAG{Fil3_B1n_P4wn3d}",
+      "points": 5,
+      "firstBlood": "mlcnl",
+      "lastBlood": "mlcnl",
+      "solvedBy": [
+        "mlcnl"
+      ],
+      "messageId": "1319054837693812817",
+      "channelId": "1319054629018800179"
+    },
+    {
+      "titre": "Jwt stel token",
+      "description": "Voler le token admin pour trouver le flag",
+      "niveau": "medium",
+      "flag": "FLAG{ST3AL_Th3_T0k3N}",
+      "points": 10,
+      "firstBlood": null,
+      "lastBlood": null,
+      "solvedBy": [],
+      "messageId": "1319414527317508148",
+      "channelId": "1319414339870134342"
+    },
+    {
+      "titre": "A-24 Dossier S 75",
+      "description": "aucune",
+      "niveau": "insane",
+      "flag": "1",
+      "points": 50,
+      "firstBlood": "gr1m_ryukyu_n1ghtm4r3",
+      "lastBlood": "blitz_zz.",
+      "solvedBy": [
+        "gr1m_ryukyu_n1ghtm4r3",
+        "blitz_zz."
+      ],
+      "messageId": "1320839154116067469",
+      "channelId": "1320837403321303040"
+    },
+    {
+      "titre": "ziploop",
+      "description": "Retrouver le flag après le unzip",
+      "niveau": "medium",
+      "flag": "FLAG{L00P_ZIP_PWNED}",
+      "points": 10,
+      "firstBlood": null,
+      "lastBlood": null,
+      "solvedBy": [],
+      "messageId": "1320841861111353435",
+      "channelId": "1320841680005369866"
+    },
+    {
+      "titre": "Cherchez.",
+      "description": "caca",
+      "niveau": "easy",
+      "flag": "Activités Z 907546",
+      "points": 5,
+      "firstBlood": "blitz_zz.",
+      "lastBlood": "mlcnl",
+      "solvedBy": [
+        "blitz_zz.",
+        "gr1m_ryukyu_n1ghtm4r3",
+        "mlcnl"
+      ],
+      "messageId": "1320846082724597803",
+      "channelId": "1320845284988944485"
+    },
+    {
+      "titre": "ouchmybrain",
+      "description": "Miam le brainfuck",
+      "niveau": "easy",
+      "flag": "FLAG{MY_BR4IN_PWN}",
+      "points": 5,
+      "firstBlood": "blitz_zz.",
+      "lastBlood": "blitz_zz.",
+      "solvedBy": [
+        "blitz_zz."
+      ],
+      "messageId": "1320854936443158578",
+      "channelId": "1320854721304727653"
+    },
+    {
+      "titre": "Message codé",
+      "description": "C'est BCPPPP trop simple",
+      "niveau": "easy",
+      "flag": "Ryukyuka la plus grrr",
+      "points": 5,
+      "firstBlood": "gr1m_ryukyu_n1ghtm4r3",
+      "lastBlood": "mlcnl",
+      "solvedBy": [
+        "gr1m_ryukyu_n1ghtm4r3",
+        "mlcnl"
+      ],
+      "messageId": "1320857354434248825",
+      "channelId": "1320857061835276309"
+    },
+    {
+      "titre": "Observez, comprenez",
+      "description": "faut voir",
+      "niveau": "medium",
+      "flag": "Ryukyu si tu lis sa met moi co-owner",
+      "points": 10,
+      "firstBlood": "gr1m_ryukyu_n1ghtm4r3",
+      "lastBlood": "gr1m_ryukyu_n1ghtm4r3",
+      "solvedBy": [
+        "gr1m_ryukyu_n1ghtm4r3"
+      ],
+      "messageId": "1320874083449307240",
+      "channelId": "1320873736718782586"
+    },
+    {
+      "titre": "Opération infiltré",
+      "description": "pas trop.dur",
+      "niveau": "easy",
+      "flag": "Gartic",
+      "points": 5,
+      "firstBlood": "gr1m_ryukyu_n1ghtm4r3",
+      "lastBlood": "gr1m_ryukyu_n1ghtm4r3",
+      "solvedBy": [
+        "gr1m_ryukyu_n1ghtm4r3"
+      ],
+      "messageId": "1320897841522151505",
+      "channelId": "1320897450705289256"
+    },
+    {
+      "titre": "blockchain",
+      "description": "Casse la blockchain",
+      "niveau": "hard",
+      "flag": "FLAG{Bl0ckCh41n_H4ck3d}",
+      "points": 20,
+      "firstBlood": null,
+      "lastBlood": null,
+      "solvedBy": [],
+      "messageId": "1321595999529209918",
+      "channelId": "1321595746755153971"
+    },
+    {
+      "titre": "pcap analyse",
+      "description": "check mon réseau",
+      "niveau": "easy",
+      "flag": "FLAG{W3_L0v3_W1r3sh4rk}",
+      "points": 5,
+      "firstBlood": null,
+      "lastBlood": null,
+      "solvedBy": [],
+      "messageId": "1322303121237606431",
+      "channelId": "1322302845491613717"
+    },
+    {
+      "titre": "defaced_checkout",
+      "description": "Pwn me",
+      "niveau": "medium",
+      "flag": "FLAG{R00t_M0d}",
+      "points": 10,
+      "firstBlood": null,
+      "lastBlood": null,
+      "solvedBy": [],
+      "messageId": "1328396049034772521",
+      "channelId": "1328395929929252866"
+    }
+  ],
+  "1154078071834558474": [
+    {
+      "titre": "BinPwn basics",
+      "description": "Utiliser challenge.bin pour le flag",
+      "niveau": "easy",
+      "flag": "FLAG{Fil3_B1n_P4wn3d}",
+      "points": 5,
+      "firstBlood": "fouroi",
+      "lastBlood": "1zan4mi_",
+      "solvedBy": [
+        "fouroi",
+        "sereno.ser",
+        "adrien01504",
+        "ginko0890",
+        "joel_c16",
+        "1zan4mi_"
+      ],
+      "messageId": "1319240737782501376",
+      "channelId": "1319240373121585154"
+    },
+    {
+      "titre": "JWT Steal Token",
+      "description": "Voler le token JWT admin",
+      "niveau": "medium",
+      "flag": "FLAG{ST3AL_Th3_T0k3N}",
+      "points": 10,
+      "firstBlood": null,
+      "lastBlood": null,
+      "solvedBy": [],
+      "messageId": "1319410911617749032",
+      "channelId": "1319410641559359519"
+    },
+    {
+      "titre": "ouch my brain",
+      "description": "Courage avec cette phase",
+      "niveau": "easy",
+      "flag": "FLAG{MY_BR4IN_PWN}",
+      "points": 5,
+      "firstBlood": null,
+      "lastBlood": null,
+      "solvedBy": [],
+      "messageId": "1321105734993186906",
+      "channelId": "1321105608073809940"
+    },
+    {
+      "titre": "blockchain",
+      "description": "Casse la blockchain",
+      "niveau": "hard",
+      "flag": "FLAG{Bl0ckCh41n_H4ck3d}",
+      "points": 20,
+      "firstBlood": "64756e6b79_",
+      "lastBlood": "64756e6b79_",
+      "solvedBy": [
+        "64756e6b79_"
+      ],
+      "messageId": "1321596656424325222",
+      "channelId": "1321596531760959520"
+    },
+    {
+      "titre": "Blueteam",
+      "description": "Trouve ce qu'il s'est passé dans le réseaux",
+      "niveau": "easy",
+      "flag": "CTF{Welcome_Blood_Viper}",
+      "points": 5,
+      "firstBlood": null,
+      "lastBlood": null,
+      "solvedBy": [],
+      "messageId": "1355530557509075048",
+      "channelId": "1355530014044590160"
+    }
+  ],
+  "1257300927321477200": [
+    {
+      "titre": "test",
+      "description": "new",
+      "niveau": "insane",
+      "flag": "test",
+      "points": 50,
+      "firstBlood": "gr1m_ryukyu_n1ghtm4r3",
+      "lastBlood": "red_t0dd",
+      "solvedBy": [
+        "gr1m_ryukyu_n1ghtm4r3",
+        "red_t0dd"
+      ],
+      "messageId": "1320801354637377546",
+      "channelId": "1320788554447585361"
+    },
+    {
+      "titre": "lol",
+      "description": "lol",
+      "niveau": "hard",
+      "flag": "lol",
+      "points": 20,
+      "firstBlood": "gr1m_ryukyu_n1ghtm4r3",
+      "lastBlood": "red_t0dd",
+      "solvedBy": [
+        "gr1m_ryukyu_n1ghtm4r3",
+        "red_t0dd"
+      ],
+      "messageId": "1320807177618985001",
+      "channelId": "1320807120987230268"
+    }
+  ],
+  "1255517910193930250": [
+    {
+      "titre": "unzip le",
+      "description": "unzip le utilise john",
+      "niveau": "easy",
+      "flag": "FLAG{Us3d_J0hn}",
+      "points": 5,
+      "firstBlood": null,
+      "lastBlood": null,
+      "solvedBy": [],
+      "messageId": "1323341772063248445",
+      "channelId": "1323341655784292463"
+    }
+  ]
+}

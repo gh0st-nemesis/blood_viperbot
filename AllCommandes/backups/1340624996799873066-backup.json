@@ -1,0 +1,709 @@
+{
+  "name": "Blood Viper",
+  "roles": [
+    {
+      "name": "🔴 Recruit",
+      "color": 6553600,
+      "permissions": "0",
+      "position": 31
+    },
+    {
+      "name": "🛡️ Co-Founder",
+      "color": 7078402,
+      "permissions": "8",
+      "position": 37
+    },
+    {
+      "name": "╭─𒌋𒀖 Tech",
+      "color": 0,
+      "permissions": "0",
+      "position": 30
+    },
+    {
+      "name": "🇺🇸 English",
+      "color": 39313,
+      "permissions": "0",
+      "position": 20
+    },
+    {
+      "name": "📻ping partenariat",
+      "color": 15844367,
+      "permissions": "0",
+      "position": 7
+    },
+    {
+      "name": "🩸 Elite Member",
+      "color": 8985114,
+      "permissions": "0",
+      "position": 32
+    },
+    {
+      "name": "🔥 Legend",
+      "color": 16742400,
+      "permissions": "0",
+      "position": 16
+    },
+    {
+      "name": "🕵️ Pentester",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 26
+    },
+    {
+      "name": "🎯 Social Engineer",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 23
+    },
+    {
+      "name": "TSUKUYOMI",
+      "color": 0,
+      "permissions": "8",
+      "position": 6
+    },
+    {
+      "name": "🕵️ Chasseur",
+      "color": 3447003,
+      "permissions": "0",
+      "position": 11
+    },
+    {
+      "name": "💎 VIP / Don",
+      "color": 61695,
+      "permissions": "0",
+      "position": 17
+    },
+    {
+      "name": "DISBOARD.org",
+      "color": 0,
+      "permissions": "19473",
+      "position": 2
+    },
+    {
+      "name": "🐍 Team Leader",
+      "color": 3066993,
+      "permissions": "0",
+      "position": 33
+    },
+    {
+      "name": "Koya",
+      "color": 0,
+      "permissions": "1644971945207",
+      "position": 3
+    },
+    {
+      "name": "ChannelManager",
+      "color": 0,
+      "permissions": "8",
+      "position": 5
+    },
+    {
+      "name": "╭─𒌋𒀖 Team Blood Viper",
+      "color": 0,
+      "permissions": "0",
+      "position": 34
+    },
+    {
+      "name": "✅ Vérifié",
+      "color": 63555,
+      "permissions": "0",
+      "position": 9
+    },
+    {
+      "name": "👨‍💻 Dev",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 29
+    },
+    {
+      "name": "╭─𒌋𒀖 Roles membre",
+      "color": 0,
+      "permissions": "0",
+      "position": 10
+    },
+    {
+      "name": "🛠️ Tool Maker",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 28
+    },
+    {
+      "name": "🤖 Bot",
+      "color": 16777215,
+      "permissions": "8",
+      "position": 8
+    },
+    {
+      "name": "🌎 Multilingual",
+      "color": 39313,
+      "permissions": "0",
+      "position": 19
+    },
+    {
+      "name": "⚡ Reverse Engineer",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 24
+    },
+    {
+      "name": "Ticket Tool",
+      "color": 0,
+      "permissions": "2416045072",
+      "position": 4
+    },
+    {
+      "name": "🛡️ CyberSec Analyst",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 25
+    },
+    {
+      "name": "Server Booster",
+      "color": 16023551,
+      "permissions": "2222085186637377",
+      "position": 1
+    },
+    {
+      "name": "📢 Ambassadeur",
+      "color": 11010048,
+      "permissions": "0",
+      "position": 15
+    },
+    {
+      "name": "╭─𒌋𒀖 programme anti-pedo",
+      "color": 0,
+      "permissions": "0",
+      "position": 12
+    },
+    {
+      "name": "╭─𒌋𒀖 Role prv",
+      "color": 0,
+      "permissions": "0",
+      "position": 13
+    },
+    {
+      "name": "╭─𒌋𒀖 Langues",
+      "color": 0,
+      "permissions": "0",
+      "position": 22
+    },
+    {
+      "name": "@everyone",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 0
+    },
+    {
+      "name": "⚔️ Admin",
+      "color": 3447003,
+      "permissions": "982958529314519",
+      "position": 36
+    },
+    {
+      "name": "╭─𒌋𒀖 Spécial",
+      "color": 0,
+      "permissions": "0",
+      "position": 18
+    },
+    {
+      "name": "🚩CTF MASTER OF MONTH",
+      "color": 22640,
+      "permissions": "0",
+      "position": 14
+    },
+    {
+      "name": "🎭 OSINT Expert",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 27
+    },
+    {
+      "name": "🔧 Moderator",
+      "color": 3357796,
+      "permissions": "683882499800771",
+      "position": 35
+    },
+    {
+      "name": "👑 Founder",
+      "color": 16711680,
+      "permissions": "8",
+      "position": 38
+    },
+    {
+      "name": "🇫🇷 Français",
+      "color": 39313,
+      "permissions": "0",
+      "position": 21
+    }
+  ],
+  "channels": [
+    {
+      "name": "📜・rules",
+      "type": 0,
+      "position": 2,
+      "parent": "『𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏𝒔』"
+    },
+    {
+      "name": "😂・memes",
+      "type": 0,
+      "position": 32,
+      "parent": "『𝑬𝒏𝒈𝒍𝒊𝒔𝒉 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "📋・staff-meetings",
+      "type": 13,
+      "position": 0,
+      "parent": "『𝑺𝒕𝒂𝒇𝒇』"
+    },
+    {
+      "name": "😂・mèmes-info",
+      "type": 0,
+      "position": 26,
+      "parent": "『𝑭𝒓𝒆𝒏𝒄𝒉 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "📖・tips",
+      "type": 15,
+      "position": 43,
+      "parent": "『𝒂𝒏𝒕𝒊-𝒑𝒆𝒅𝒐』"
+    },
+    {
+      "name": "💬・chat",
+      "type": 0,
+      "position": 35,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊𝒍𝒂𝒏𝒈』"
+    },
+    {
+      "name": "📜・ctf-rules",
+      "type": 0,
+      "position": 44,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊-𝒍𝒂𝒏𝒈 𝑪𝑻𝑭』"
+    },
+    {
+      "name": "📌・serv-allié",
+      "type": 0,
+      "position": 12,
+      "parent": "『𝒄𝒐𝒍𝒍𝒂𝒃𝒔』"
+    },
+    {
+      "name": "🛡・logs",
+      "type": 0,
+      "position": 14,
+      "parent": "『𝑺𝒕𝒂𝒇𝒇』"
+    },
+    {
+      "name": "🔐・cyber",
+      "type": 15,
+      "position": 57,
+      "parent": "『𝑻𝒆𝒄𝒉』"
+    },
+    {
+      "name": "🛠・bots-commands",
+      "type": 0,
+      "position": 39,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊𝒍𝒂𝒏𝒈』"
+    },
+    {
+      "name": "💬・chat",
+      "type": 0,
+      "position": 41,
+      "parent": "『𝒂𝒏𝒕𝒊-𝒑𝒆𝒅𝒐』"
+    },
+    {
+      "name": "💬・chat",
+      "type": 0,
+      "position": 19,
+      "parent": "『𝑻𝒆𝒂𝒎 𝑩𝒍𝒐𝒐𝒅 𝑽𝒊𝒑𝒆𝒓』"
+    },
+    {
+      "name": "🎊・events",
+      "type": 5,
+      "position": 6,
+      "parent": "『𝒆𝒗𝒆𝒏𝒕𝒔』"
+    },
+    {
+      "name": "🖥・scripts-exploits",
+      "type": 15,
+      "position": 54,
+      "parent": "『𝑻𝒐𝒐𝒍𝒔』"
+    },
+    {
+      "name": "📥・requests",
+      "type": 0,
+      "position": 53,
+      "parent": "『𝑻𝒐𝒐𝒍𝒔』"
+    },
+    {
+      "name": "📂・partage-interne",
+      "type": 15,
+      "position": 22,
+      "parent": "『𝑻𝒆𝒂𝒎 𝑩𝒍𝒐𝒐𝒅 𝑽𝒊𝒑𝒆𝒓』"
+    },
+    {
+      "name": "📃・dossiers",
+      "type": 15,
+      "position": 42,
+      "parent": "『𝒂𝒏𝒕𝒊-𝒑𝒆𝒅𝒐』"
+    },
+    {
+      "name": "📝・projets-en-cours",
+      "type": 15,
+      "position": 21,
+      "parent": "『𝑻𝒆𝒂𝒎 𝑩𝒍𝒐𝒐𝒅 𝑽𝒊𝒑𝒆𝒓』"
+    },
+    {
+      "name": "📸・suggestion",
+      "type": 15,
+      "position": 37,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊𝒍𝒂𝒏𝒈』"
+    },
+    {
+      "name": "⚡・exploits-vuln",
+      "type": 15,
+      "position": 59,
+      "parent": "『𝑻𝒆𝒄𝒉』"
+    },
+    {
+      "name": "📸・pic",
+      "type": 0,
+      "position": 36,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊𝒍𝒂𝒏𝒈』"
+    },
+    {
+      "name": "🚩・annonce",
+      "type": 5,
+      "position": 40,
+      "parent": "『𝒂𝒏𝒕𝒊-𝒑𝒆𝒅𝒐』"
+    },
+    {
+      "name": "🎤・réunions-vc",
+      "type": 2,
+      "position": 1,
+      "parent": "『𝑻𝒆𝒂𝒎 𝑩𝒍𝒐𝒐𝒅 𝑽𝒊𝒑𝒆𝒓』"
+    },
+    {
+      "name": "👨💻・dev",
+      "type": 15,
+      "position": 56,
+      "parent": "『𝑻𝒆𝒄𝒉』"
+    },
+    {
+      "name": "🗄・archives",
+      "type": 15,
+      "position": 16,
+      "parent": "『𝑺𝒕𝒂𝒇𝒇』"
+    },
+    {
+      "name": "🎊・giveaway",
+      "type": 0,
+      "position": 7,
+      "parent": "『𝒆𝒗𝒆𝒏𝒕𝒔』"
+    },
+    {
+      "name": "🔵・ctf-en",
+      "type": 15,
+      "position": 46,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊-𝒍𝒂𝒏𝒈 𝑪𝑻𝑭』"
+    },
+    {
+      "name": "🛠・tools-public",
+      "type": 15,
+      "position": 51,
+      "parent": "『𝑻𝒐𝒐𝒍𝒔』"
+    },
+    {
+      "name": "🤖・config-bots",
+      "type": 0,
+      "position": 17,
+      "parent": "『𝑺𝒕𝒂𝒇𝒇』"
+    },
+    {
+      "name": "📌・conditions-part",
+      "type": 5,
+      "position": 9,
+      "parent": "『𝒄𝒐𝒍𝒍𝒂𝒃𝒔』"
+    },
+    {
+      "name": "💡・ctf-tips",
+      "type": 15,
+      "position": 49,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊-𝒍𝒂𝒏𝒈 𝑪𝑻𝑭』"
+    },
+    {
+      "name": "💬・general-chat",
+      "type": 0,
+      "position": 29,
+      "parent": "『𝑬𝒏𝒈𝒍𝒊𝒔𝒉 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "📁・téléchargements",
+      "type": 15,
+      "position": 55,
+      "parent": "『𝑻𝒐𝒐𝒍𝒔』"
+    },
+    {
+      "name": "📋・staff-chat",
+      "type": 0,
+      "position": 13,
+      "parent": "『𝑺𝒕𝒂𝒇𝒇』"
+    },
+    {
+      "name": "📌・serv-part",
+      "type": 0,
+      "position": 11,
+      "parent": "『𝒄𝒐𝒍𝒍𝒂𝒃𝒔』"
+    },
+    {
+      "name": "😂・memes",
+      "type": 0,
+      "position": 38,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊𝒍𝒂𝒏𝒈』"
+    },
+    {
+      "name": "🛠・bots-commands",
+      "type": 0,
+      "position": 34,
+      "parent": "『𝑬𝒏𝒈𝒍𝒊𝒔𝒉 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "🔔・recruit",
+      "type": 0,
+      "position": 5,
+      "parent": "『𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏𝒔』"
+    },
+    {
+      "name": "🔥・team-scores",
+      "type": 0,
+      "position": 48,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊-𝒍𝒂𝒏𝒈 𝑪𝑻𝑭』"
+    },
+    {
+      "name": "🛠・commandes-bots",
+      "type": 0,
+      "position": 28,
+      "parent": "『𝑭𝒓𝒆𝒏𝒄𝒉 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "📸・suggestion",
+      "type": 15,
+      "position": 25,
+      "parent": "『𝑭𝒓𝒆𝒏𝒄𝒉 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "📌・tickets",
+      "type": 0,
+      "position": 8,
+      "parent": "『𝒄𝒐𝒍𝒍𝒂𝒃𝒔』"
+    },
+    {
+      "name": "📸・suggestion",
+      "type": 15,
+      "position": 31,
+      "parent": "『𝑬𝒏𝒈𝒍𝒊𝒔𝒉 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "📊・sondages",
+      "type": 0,
+      "position": 27,
+      "parent": "『𝑭𝒓𝒆𝒏𝒄𝒉 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "📢・annonces-announcements",
+      "type": 5,
+      "position": 3,
+      "parent": "『𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏𝒔』"
+    },
+    {
+      "name": "🕵・osint",
+      "type": 15,
+      "position": 58,
+      "parent": "『𝑻𝒆𝒄𝒉』"
+    },
+    {
+      "name": "🔴・annonces-team",
+      "type": 5,
+      "position": 18,
+      "parent": "『𝑻𝒆𝒂𝒎 𝑩𝒍𝒐𝒐𝒅 𝑽𝒊𝒑𝒆𝒓』"
+    },
+    {
+      "name": "📸・pic",
+      "type": 0,
+      "position": 30,
+      "parent": "『𝑬𝒏𝒈𝒍𝒊𝒔𝒉 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "📌・suggestions",
+      "type": 15,
+      "position": 15,
+      "parent": "『𝑺𝒕𝒂𝒇𝒇』"
+    },
+    {
+      "name": "🟢・ctf-fr",
+      "type": 15,
+      "position": 45,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊-𝒍𝒂𝒏𝒈 𝑪𝑻𝑭』"
+    },
+    {
+      "name": "🔗・tools-priv",
+      "type": 0,
+      "position": 52,
+      "parent": "『𝑻𝒐𝒐𝒍𝒔』"
+    },
+    {
+      "name": "↪ Créer un salon",
+      "type": 2,
+      "position": 2,
+      "parent": "『𝑽𝒐𝒄』"
+    },
+    {
+      "name": "📝・writeups",
+      "type": 15,
+      "position": 50,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊-𝒍𝒂𝒏𝒈 𝑪𝑻𝑭』"
+    },
+    {
+      "name": "📊・polls",
+      "type": 0,
+      "position": 33,
+      "parent": "『𝑬𝒏𝒈𝒍𝒊𝒔𝒉 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "💬・general-chat",
+      "type": 0,
+      "position": 23,
+      "parent": "『𝑭𝒓𝒆𝒏𝒄𝒉 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    },
+    {
+      "name": "📌・conditions-alliance",
+      "type": 5,
+      "position": 10,
+      "parent": "『𝒄𝒐𝒍𝒍𝒂𝒃𝒔』"
+    },
+    {
+      "name": "🏆・ctf-scores",
+      "type": 0,
+      "position": 47,
+      "parent": "『𝑴𝒖𝒍𝒕𝒊-𝒍𝒂𝒏𝒈 𝑪𝑻𝑭』"
+    },
+    {
+      "name": "🔔・notification-welcome",
+      "type": 0,
+      "position": 1,
+      "parent": null
+    },
+    {
+      "name": "📥・tickets",
+      "type": 0,
+      "position": 61,
+      "parent": "『𝒔𝒖𝒑𝒑𝒐𝒓𝒕』"
+    },
+    {
+      "name": "📚・ressources",
+      "type": 15,
+      "position": 60,
+      "parent": "『𝑻𝒆𝒄𝒉』"
+    },
+    {
+      "name": "🔔・accueil",
+      "type": 0,
+      "position": 0,
+      "parent": null
+    },
+    {
+      "name": "📢・anti-pedo-protocol",
+      "type": 0,
+      "position": 4,
+      "parent": "『𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏𝒔』"
+    },
+    {
+      "name": "📂・logs-github",
+      "type": 0,
+      "position": 20,
+      "parent": "『𝑻𝒆𝒂𝒎 𝑩𝒍𝒐𝒐𝒅 𝑽𝒊𝒑𝒆𝒓』"
+    },
+    {
+      "name": "📸・médias",
+      "type": 0,
+      "position": 24,
+      "parent": "『𝑭𝒓𝒆𝒏𝒄𝒉 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』"
+    }
+  ],
+  "categoryChannels": [
+    {
+      "name": "『𝑻𝒊𝒄𝒌𝒆𝒕-𝒓𝒆𝒄𝒓𝒖𝒕𝒆𝒎𝒆𝒏𝒕』",
+      "position": 14
+    },
+    {
+      "name": "『𝑻𝒊𝒄𝒌𝒆𝒕-𝒕𝒐𝒐𝒍-𝒑𝒓𝒊𝒗』",
+      "position": 15
+    },
+    {
+      "name": "『𝒕𝒊𝒄𝒌𝒆𝒕-𝒂𝒏𝒕𝒊𝒑𝒆𝒅𝒐』",
+      "position": 18
+    },
+    {
+      "name": "『𝒆𝒗𝒆𝒏𝒕𝒔』",
+      "position": 1
+    },
+    {
+      "name": "『𝑻𝒆𝒂𝒎 𝑩𝒍𝒐𝒐𝒅 𝑽𝒊𝒑𝒆𝒓』",
+      "position": 4
+    },
+    {
+      "name": "『𝑭𝒓𝒆𝒏𝒄𝒉 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』",
+      "position": 5
+    },
+    {
+      "name": "『𝑬𝒏𝒈𝒍𝒊𝒔𝒉 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚』",
+      "position": 6
+    },
+    {
+      "name": "『𝒂𝒏𝒕𝒊-𝒑𝒆𝒅𝒐』",
+      "position": 8
+    },
+    {
+      "name": "『𝑴𝒖𝒍𝒕𝒊𝒍𝒂𝒏𝒈』",
+      "position": 7
+    },
+    {
+      "name": "『𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏𝒔』",
+      "position": 0
+    },
+    {
+      "name": "『𝑻𝒆𝒄𝒉』",
+      "position": 11
+    },
+    {
+      "name": "『𝒕𝒊𝒄𝒌𝒆𝒕-𝒄𝒐𝒍𝒍𝒂𝒃𝒔』",
+      "position": 17
+    },
+    {
+      "name": "『𝑽𝒐𝒄』",
+      "position": 12
+    },
+    {
+      "name": "『𝑻𝒐𝒐𝒍𝒔』",
+      "position": 10
+    },
+    {
+      "name": "『𝒔𝒖𝒑𝒑𝒐𝒓𝒕』",
+      "position": 13
+    },
+    {
+      "name": "『𝑴𝒖𝒍𝒕𝒊-𝒍𝒂𝒏𝒈 𝑪𝑻𝑭』",
+      "position": 9
+    },
+    {
+      "name": "『𝒄𝒐𝒍𝒍𝒂𝒃𝒔』",
+      "position": 2
+    },
+    {
+      "name": "『𝑻𝒊𝒄𝒌𝒆𝒕-𝒓𝒆𝒒𝒖𝒆𝒔𝒕』",
+      "position": 16
+    },
+    {
+      "name": "『𝑺𝒕𝒂𝒇𝒇』",
+      "position": 3
+    }
+  ]
+}

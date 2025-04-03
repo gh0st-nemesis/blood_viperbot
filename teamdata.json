@@ -1,0 +1,44 @@
+{
+    "1257300927321477200": [
+        {
+            "name": "evolved",
+            "chefId": "1116623141247127602",
+            "chefName": "red_t0dd",
+            "points": 130,
+            "chefpoints": 130,
+            "members": []
+        },
+        {
+            "name": "coucou",
+            "chefId": "702354040285036594",
+            "chefName": "l0ve4shell",
+            "points": 130,
+            "chefpoints": 130,
+            "members": []
+        }
+    ],
+    "1309857246536138832": [
+        {
+            "name": "W1NT3R",
+            "chefId": "998877633502773368",
+            "chefName": "blitz_zz.",
+            "points": 60,
+            "chefpoints": 60,
+            "members": []
+        },
+        {
+            "name": "Ev0lv3dS3c",
+            "chefId": "702354040285036594",
+            "chefName": "gr1m_ryukyu_n1ghtm4r3",
+            "points": 95,
+            "chefpoints": 75,
+            "members": [
+                {
+                    "id": "1258904105716551703",
+                    "name": "mlcnl",
+                    "points": 20
+                }
+            ]
+        }
+    ]
+}

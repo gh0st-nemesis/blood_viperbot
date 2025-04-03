@@ -1,0 +1,708 @@
+{
+  "name": "𝕋𝕊𝕌𝕂𝕚 ✮ ⋆ ˚｡𖦹 ⋆｡°✩",
+  "roles": [
+    {
+      "name": "Suceur de Mei",
+      "color": 16711887,
+      "permissions": "0",
+      "position": 14
+    },
+    {
+      "name": "FlaviBot",
+      "color": 0,
+      "permissions": "4332055832",
+      "position": 16
+    },
+    {
+      "name": "dead chat",
+      "color": 0,
+      "permissions": "1720707884371521",
+      "position": 18
+    },
+    {
+      "name": "Femme",
+      "color": 16777215,
+      "permissions": "1720707884338753",
+      "position": 39
+    },
+    {
+      "name": "UnbelievaBoat",
+      "color": 0,
+      "permissions": "829811966",
+      "position": 26
+    },
+    {
+      "name": "Bleu clair",
+      "color": 9425919,
+      "permissions": "0",
+      "position": 47
+    },
+    {
+      "name": "Jaune",
+      "color": 16776042,
+      "permissions": "0",
+      "position": 45
+    },
+    {
+      "name": "Modérateur",
+      "color": 16719993,
+      "permissions": "1721807542939587",
+      "position": 53
+    },
+    {
+      "name": "Sugar daddy",
+      "color": 15844367,
+      "permissions": "0",
+      "position": 29
+    },
+    {
+      "name": "Perm image",
+      "color": 16711679,
+      "permissions": "32768",
+      "position": 35
+    },
+    {
+      "name": "DraftBot",
+      "color": 0,
+      "permissions": "397250391551",
+      "position": 33
+    },
+    {
+      "name": "Tickets",
+      "color": 0,
+      "permissions": "395942816984",
+      "position": 50
+    },
+    {
+      "name": "Mineur",
+      "color": 16777215,
+      "permissions": "1720707884338753",
+      "position": 37
+    },
+    {
+      "name": "Majeur",
+      "color": 16777215,
+      "permissions": "1720707884338753",
+      "position": 36
+    },
+    {
+      "name": "Owner",
+      "color": 16645887,
+      "permissions": "8",
+      "position": 52
+    },
+    {
+      "name": "Rose",
+      "color": 16737783,
+      "permissions": "0",
+      "position": 49
+    },
+    {
+      "name": "RaidProtect",
+      "color": 0,
+      "permissions": "8",
+      "position": 17
+    },
+    {
+      "name": "Blanc",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 41
+    },
+    {
+      "name": "Statbot",
+      "color": 0,
+      "permissions": "269601936",
+      "position": 3
+    },
+    {
+      "name": "soumis de sphere",
+      "color": 10181046,
+      "permissions": "0",
+      "position": 2
+    },
+    {
+      "name": "ProBot ✨",
+      "color": 0,
+      "permissions": "1610612865",
+      "position": 34
+    },
+    {
+      "name": "TSUKUYOMI",
+      "color": 0,
+      "permissions": "8",
+      "position": 1
+    },
+    {
+      "name": "Bot",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 56
+    },
+    {
+      "name": "Membre",
+      "color": 16777215,
+      "permissions": "4542032055873",
+      "position": 24
+    },
+    {
+      "name": "#Petit frère de Mei",
+      "color": 3066993,
+      "permissions": "0",
+      "position": 13
+    },
+    {
+      "name": "All perm",
+      "color": 16719993,
+      "permissions": "1757010991251455",
+      "position": 54
+    },
+    {
+      "name": "Ticket Tool",
+      "color": 0,
+      "permissions": "2416045072",
+      "position": 55
+    },
+    {
+      "name": "🤖",
+      "color": 0,
+      "permissions": "0",
+      "position": 8
+    },
+    {
+      "name": "Autre",
+      "color": 16777215,
+      "permissions": "0",
+      "position": 51
+    },
+    {
+      "name": "JesuislesoumisdeMaylis❤️",
+      "color": 3066993,
+      "permissions": "0",
+      "position": 5
+    },
+    {
+      "name": "Koya",
+      "color": 0,
+      "permissions": "590983204433143",
+      "position": 31
+    },
+    {
+      "name": "#Grande sœur de Ahmed",
+      "color": 3066993,
+      "permissions": "0",
+      "position": 12
+    },
+    {
+      "name": "DraftBot",
+      "color": 0,
+      "permissions": "274878187584",
+      "position": 30
+    },
+    {
+      "name": "carl-bot",
+      "color": 0,
+      "permissions": "66321471",
+      "position": 21
+    },
+    {
+      "name": "𝑶𝒖𝒌𝒕𝒉𝒚 𝑻𝒓𝒐𝒕𝒕𝒊𝒏𝒆𝒕𝒕𝒆",
+      "color": 7419530,
+      "permissions": "0",
+      "position": 7
+    },
+    {
+      "name": "Tupperbox",
+      "color": 0,
+      "permissions": "275415166016",
+      "position": 15
+    },
+    {
+      "name": "Noir",
+      "color": 1287,
+      "permissions": "0",
+      "position": 40
+    },
+    {
+      "name": "@everyone",
+      "color": 0,
+      "permissions": "71440375598656",
+      "position": 0
+    },
+    {
+      "name": "Tickets Support",
+      "color": 0,
+      "permissions": "1071698529857",
+      "position": 20
+    },
+    {
+      "name": "Violet",
+      "color": 13369599,
+      "permissions": "0",
+      "position": 44
+    },
+    {
+      "name": "Perm gif",
+      "color": 0,
+      "permissions": "137439248384",
+      "position": 4
+    },
+    {
+      "name": "Enfant2BaMoussaKarim",
+      "color": 0,
+      "permissions": "131072",
+      "position": 10
+    },
+    {
+      "name": "Homme",
+      "color": 16777215,
+      "permissions": "1720707884338753",
+      "position": 38
+    },
+    {
+      "name": "Vert clair",
+      "color": 8912807,
+      "permissions": "0",
+      "position": 43
+    },
+    {
+      "name": "Petit modo",
+      "color": 0,
+      "permissions": "32854620221377",
+      "position": 23
+    },
+    {
+      "name": "Mimu",
+      "color": 0,
+      "permissions": "1007021169",
+      "position": 32
+    },
+    {
+      "name": "SlaveOfF𝔲𝔯𝔲𝔠𝔥𝔦",
+      "color": 10038562,
+      "permissions": "0",
+      "position": 11
+    },
+    {
+      "name": "Bleu foncé",
+      "color": 1496,
+      "permissions": "0",
+      "position": 46
+    },
+    {
+      "name": "Non vérifié",
+      "color": 0,
+      "permissions": "66560",
+      "position": 25
+    },
+    {
+      "name": "Vert foncé",
+      "color": 27701,
+      "permissions": "0",
+      "position": 42
+    },
+    {
+      "name": "𝐋𝐚 𝐠𝐨𝐚𝐭 𝐮𝐥𝐭𝐢𝐦𝐞",
+      "color": 16743901,
+      "permissions": "0",
+      "position": 6
+    },
+    {
+      "name": "Muted",
+      "color": 9936031,
+      "permissions": "0",
+      "position": 27
+    },
+    {
+      "name": "Bandeur de Fatma🎀",
+      "color": 16760310,
+      "permissions": "0",
+      "position": 22
+    },
+    {
+      "name": "Tickets Admin",
+      "color": 0,
+      "permissions": "1071698529857",
+      "position": 19
+    },
+    {
+      "name": "Rouge",
+      "color": 16711680,
+      "permissions": "0",
+      "position": 48
+    },
+    {
+      "name": "#AhmedLeModo",
+      "color": 3447003,
+      "permissions": "2108863302074367",
+      "position": 9
+    },
+    {
+      "name": "✧･ﾟ: *✧･ﾟ:* 𝓙𝓸𝔂𝓮𝓾𝔁 𝓪𝓷𝓷𝓲𝓿𝓮𝓻𝓼𝓪𝓲𝓻𝓮 *:･ﾟ✧*:･ﾟ✧",
+      "color": 65529,
+      "permissions": "0",
+      "position": 28
+    }
+  ],
+  "channels": [
+    {
+      "name": "𝒟𝓊𝑜-2",
+      "type": 2,
+      "position": 7,
+      "parent": "Voc duo"
+    },
+    {
+      "name": "𝑀𝑜𝒹𝑒",
+      "type": 0,
+      "position": 29,
+      "parent": "Passion"
+    },
+    {
+      "name": "𝒩𝑜𝓉𝓇𝑒-𝓅𝓊𝒷",
+      "type": 0,
+      "position": 16,
+      "parent": "Information"
+    },
+    {
+      "name": "𝒱𝑜𝒸-1",
+      "type": 2,
+      "position": 3,
+      "parent": "Salons vocaux"
+    },
+    {
+      "name": "𝒞𝑜𝓃𝓈𝑒𝒾𝓁𝓈-𝑒𝓃𝓉𝓇𝑒-𝒻𝒾𝓁𝓁𝑒𝓈",
+      "type": 0,
+      "position": 22,
+      "parent": "Salons textuels"
+    },
+    {
+      "name": "𝒟𝑒𝓅𝒶𝓇𝓉★",
+      "type": 0,
+      "position": 10,
+      "parent": "Information"
+    },
+    {
+      "name": "𝒮é𝓇𝒾𝑒★",
+      "type": 0,
+      "position": 33,
+      "parent": "Recommandation"
+    },
+    {
+      "name": "raidprotect-logs",
+      "type": 0,
+      "position": 2,
+      "parent": "bot"
+    },
+    {
+      "name": "𝒟𝓊𝑜-3",
+      "type": 2,
+      "position": 8,
+      "parent": "Voc duo"
+    },
+    {
+      "name": "𝒟𝓊𝑜-1",
+      "type": 2,
+      "position": 6,
+      "parent": "Voc duo"
+    },
+    {
+      "name": "Membres : 162",
+      "type": 2,
+      "position": 0,
+      "parent": "Statistiques"
+    },
+    {
+      "name": "𝒢𝒾𝓋𝑒𝓌𝒶𝓎★",
+      "type": 0,
+      "position": 14,
+      "parent": "Information"
+    },
+    {
+      "name": "𝐵𝒾𝑒𝓃𝓋𝑒𝓃𝓊𝑒★",
+      "type": 0,
+      "position": 9,
+      "parent": "Information"
+    },
+    {
+      "name": "test",
+      "type": 0,
+      "position": 6,
+      "parent": "Staff"
+    },
+    {
+      "name": "𝒯𝓇𝒾𝑜-3",
+      "type": 2,
+      "position": 11,
+      "parent": "Voc trio"
+    },
+    {
+      "name": "𝐼𝓃𝓈𝓉𝒶★",
+      "type": 0,
+      "position": 37,
+      "parent": "Réseaux"
+    },
+    {
+      "name": "moderator-only",
+      "type": 0,
+      "position": 4,
+      "parent": "Staff"
+    },
+    {
+      "name": "𝐻𝒶𝓊𝓁★",
+      "type": 0,
+      "position": 24,
+      "parent": "Toi"
+    },
+    {
+      "name": "chatt-staff",
+      "type": 0,
+      "position": 5,
+      "parent": "Staff"
+    },
+    {
+      "name": "vérification",
+      "type": 0,
+      "position": 1,
+      "parent": "bot"
+    },
+    {
+      "name": "webtoon",
+      "type": 0,
+      "position": 34,
+      "parent": "Recommandation"
+    },
+    {
+      "name": "𝒮𝓃𝒶𝓅★",
+      "type": 0,
+      "position": 35,
+      "parent": "Réseaux"
+    },
+    {
+      "name": "𝒞𝑜𝓂𝓂𝒶𝓃𝒹𝑒𝓈★",
+      "type": 0,
+      "position": 21,
+      "parent": "Salons textuels"
+    },
+    {
+      "name": "𝒯𝒾𝓀-𝓉𝑜𝓀★",
+      "type": 0,
+      "position": 36,
+      "parent": "Réseaux"
+    },
+    {
+      "name": "𝒫𝒶𝓇𝓉𝑒𝓃𝒶𝓇𝒾𝒶𝓉𝓈",
+      "type": 0,
+      "position": 15,
+      "parent": "Information"
+    },
+    {
+      "name": "Utilisateurs : 147",
+      "type": 2,
+      "position": 1,
+      "parent": "Statistiques"
+    },
+    {
+      "name": "transcripts",
+      "type": 0,
+      "position": 3,
+      "parent": "bot"
+    },
+    {
+      "name": "𝒯𝓇𝒾𝑜-1",
+      "type": 2,
+      "position": 9,
+      "parent": "Voc trio"
+    },
+    {
+      "name": "𝒩𝒾𝓋𝑒𝒶𝓊𝓍₊✩‧₊˚౨ৎ˚₊✩‧₊",
+      "type": 0,
+      "position": 13,
+      "parent": "Information"
+    },
+    {
+      "name": "𝑅è𝑔𝓁𝑒𝓈★",
+      "type": 0,
+      "position": 11,
+      "parent": "Information"
+    },
+    {
+      "name": "𝒟𝑒𝓈𝓈𝒾𝓃★",
+      "type": 0,
+      "position": 25,
+      "parent": "Passion"
+    },
+    {
+      "name": "𝒱𝑜𝒸-3",
+      "type": 2,
+      "position": 5,
+      "parent": "Salons vocaux"
+    },
+    {
+      "name": "𝒞𝓊𝒾𝓈𝒾𝓃𝑒★",
+      "type": 0,
+      "position": 26,
+      "parent": "Passion"
+    },
+    {
+      "name": "𝑀𝑒𝒹𝒾𝒶★",
+      "type": 0,
+      "position": 20,
+      "parent": "Salons textuels"
+    },
+    {
+      "name": "𝒜𝓃𝒾𝓂𝑒★",
+      "type": 0,
+      "position": 30,
+      "parent": "Recommandation"
+    },
+    {
+      "name": "𝒟é𝒷𝒶𝓉★",
+      "type": 0,
+      "position": 28,
+      "parent": "Passion"
+    },
+    {
+      "name": "𝒯𝓇𝒾𝑜-2",
+      "type": 2,
+      "position": 10,
+      "parent": "Voc trio"
+    },
+    {
+      "name": "face-reveal",
+      "type": 0,
+      "position": 38,
+      "parent": "Toi"
+    },
+    {
+      "name": "𝒩𝑜𝓉𝒾𝒻𝒾𝒸𝒶𝓉𝒾𝑜𝓃𝓈",
+      "type": 0,
+      "position": 17,
+      "parent": "Information"
+    },
+    {
+      "name": "𝐹𝒾𝓁𝓂★",
+      "type": 0,
+      "position": 32,
+      "parent": "Recommandation"
+    },
+    {
+      "name": "𝒞𝒽𝒶𝓉-𝑔é𝓃é𝓇𝒶𝓁",
+      "type": 0,
+      "position": 19,
+      "parent": "Salons textuels"
+    },
+    {
+      "name": "𝒯𝒾𝒸𝓀𝑒𝓉𝓈★",
+      "type": 0,
+      "position": 18,
+      "parent": "Support"
+    },
+    {
+      "name": "100000",
+      "type": 2,
+      "position": 2,
+      "parent": "Statistiques"
+    },
+    {
+      "name": "𝒱𝑜𝒸-2",
+      "type": 2,
+      "position": 4,
+      "parent": "Salons vocaux"
+    },
+    {
+      "name": "𝑅𝑜𝓁𝑒𝓈",
+      "type": 0,
+      "position": 12,
+      "parent": "Information"
+    },
+    {
+      "name": "mes-test",
+      "type": 0,
+      "position": 0,
+      "parent": "bot"
+    },
+    {
+      "name": "𝓐𝓷𝓮𝓬𝓭𝓸𝓽𝓮★",
+      "type": 0,
+      "position": 23,
+      "parent": "Toi"
+    },
+    {
+      "name": "test-bot",
+      "type": 0,
+      "position": 7,
+      "parent": "Staff"
+    },
+    {
+      "name": "𝒦𝒹𝓇𝒶𝓂𝒶★",
+      "type": 0,
+      "position": 31,
+      "parent": "Recommandation"
+    },
+    {
+      "name": "𝒥𝑒𝓊𝓍★",
+      "type": 0,
+      "position": 27,
+      "parent": "Passion"
+    },
+    {
+      "name": ".",
+      "type": 11,
+      "parent": "𝑅𝑜𝓁𝑒𝓈"
+    }
+  ],
+  "categoryChannels": [
+    {
+      "name": "Salons vocaux",
+      "position": 10
+    },
+    {
+      "name": "Information",
+      "position": 3
+    },
+    {
+      "name": "bot",
+      "position": 1
+    },
+    {
+      "name": "Salons textuels",
+      "position": 5
+    },
+    {
+      "name": "Support",
+      "position": 4
+    },
+    {
+      "name": "Staff",
+      "position": 2
+    },
+    {
+      "name": "Recommandation",
+      "position": 8
+    },
+    {
+      "name": "Voc trio",
+      "position": 12
+    },
+    {
+      "name": "Toi",
+      "position": 6
+    },
+    {
+      "name": "Statistiques",
+      "position": 0
+    },
+    {
+      "name": "Voc duo",
+      "position": 11
+    },
+    {
+      "name": "Réseaux",
+      "position": 9
+    },
+    {
+      "name": "Passion",
+      "position": 7
+    }
+  ]
+}
